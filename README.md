@@ -1,5 +1,5 @@
 <p>
-  <a href="https://api.moedog.org/count/@tqzy?theme=rule34"><img src="https://api.moedog.org/count/@github.readme?theme=moebooru-h"></a>
+  <a href="https://api.moedog.org/count/@tqzy"><img src="https://api.moedog.org/count/@tqzy" alt="tqzy" /></a>
   <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
