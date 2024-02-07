@@ -25,7 +25,8 @@
 
 
 #### Github Stats
-[![info](https://github-readme-stats.vercel.app/api?username=fon11731&count_private=true&show_icons=true&theme=radical)]
+![info](https://github-readme-stats.vercel.app/api?username=fon11731&count_private=true&show_icons=true&theme=radical)
+
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fon11731&layout=compact&langs_count=6&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
