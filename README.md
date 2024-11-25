@@ -40,6 +40,11 @@
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=fon11731)](https://github.com/IceEnd)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IceEnd/IceEnd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IceEnd/IceEnd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IceEnd/IceEnd/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **xb2016/xb2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
