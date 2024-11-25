@@ -1,6 +1,5 @@
 <p>
   <img src="https://api.moedog.org/count/@tqzy?theme=rule34" alt="tqzy" />
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 </p>
 
 #### Platform&Tools
