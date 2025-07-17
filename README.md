@@ -26,7 +26,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=fon11731&count_private=true&show_icons=true&theme=radical)
 
 #### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fon11731&layout=compact&langs_count=6&card_width=445&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fon11731&layout=compact&langs_count=6&card_width=445&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### giree
 [![天启之云/](https://gitee.com/fon1173//widgets/widget_card.svg?colors=f58ef5,12293d,313436,2ba0ff,99beff,488076)](https://gitee.com/fon1173/)
