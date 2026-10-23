@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Windows%20Server-2019-262577?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows-server)
 [![](https://img.shields.io/badge/centos-7-1E90FF?style=flat-square&logo=centos&logoColor=ffffff)](https://wiki.centos.org/Download)
+[![](https://img.shields.io/badge/ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/download)
 [![](https://img.shields.io/badge/xiaomi-k60%20Pro-f45a00?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.xiaomi.com/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
